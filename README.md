@@ -1,11 +1,14 @@
-# clmay.github.io
+---
+layout: default
+---
 
-My personal website and wiki. A simple collection of Markdown documents,
-rendered and served by GitHub Pages, available at https://clm.dev.
+## Hi there 👋
 
-## Conventions
+I'm [Chase](https://github.com/clmay).
 
-- Headings in body content should begin with `##` / `<h2>` to avoid conflicts
-  with page titles
-- TOCs are separated from page content with `---` (horizontal rule)
-- Page footers (à la Wikipedia) are also separated from page content with `---`
+I like to code, read, think, write, and [sit](https://en.wikipedia.org/wiki/Shikantaza).
+
+Someday, I hope to turn this site into a digital garden, showcasing my output and endeavors. For now, you get this page.
+
+Please feel free to get in touch [here](https://github.com/clmay/clmay/discussions/categories/say-hello) or by sending
+me [an email](mailto:hello@clm.dev)! 🙏
