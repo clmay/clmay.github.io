@@ -6,7 +6,7 @@ layout: default
 
 I'm [Chase](https://github.com/clmay).
 
-I like to code, read, think, write, and [sit](https://en.wikipedia.org/wiki/Shikantaza).
+I like to code, read, think, write, and [sit](https://www.sotozen.com/eng/practice/zazen/advice/fukanzanzeng.html).
 
 Someday, I hope to turn this site into a digital garden, showcasing my output and endeavors. For now, you get this page.
 
