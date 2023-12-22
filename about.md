@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Chase May](https://github.com/clmay). This is my personal website.
+I'm [Chase May](https://github.com/clmay) (he/him)<sup>[?](https://pronouns.org/what-and-why)</sup>). This is my personal website.
 
 I like to code, read, think, write, and [sit](https://www.sotozen.com/eng/practice/zazen/advice/fukanzanzeng.html).
 
