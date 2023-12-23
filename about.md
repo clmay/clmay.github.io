@@ -1,3 +1,7 @@
+---
+permalink: /about/
+---
+
 ## Hi there 👋
 
 I'm [Chase May](https://github.com/clmay) (he/him)<sup>[?](https://pronouns.org/what-and-why)</sup>). This is my
