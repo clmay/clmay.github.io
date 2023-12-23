@@ -1,10 +1,6 @@
----
-layout: default
----
-
 Surprise! There's nothing here, really. 😉
 
-This site does have:
+Currently this site has:
 
 <!--TODO: figure out a way to generate this list programmaticaly-->
 
