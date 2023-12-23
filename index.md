@@ -1,5 +1,3 @@
-# Gateless Garden
-
 ## Welcome!
 
 Surprise! There's nothing here, really. 😉
