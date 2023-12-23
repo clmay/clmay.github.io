@@ -2,7 +2,8 @@
 
 Personal website. 🌎
 
-Most of the content on [clm.dev](https://www.clm.dev) is published to GitHub Pages from other repos:
+Most of the content on [clm.dev](https://www.clm.dev) is from submodules:
 
-- [clmay/garden](https://github.com/clmay/garden) --> [`/garden`](https://www.clm.dev/garden)
-- [clmay/talks](https://github.com/clmay/talks) --> [`/talks`](https://www.clm.dev/talks)
+- [`/about`](https://www.clm.dev/about) <-- [clmay/clmay](https://github.com/clmay/clmay)
+- [`/garden`](https://www.clm.dev/garden) <-- [clmay/garden](https://github.com/clmay/garden)
+- [`/talks`](https://www.clm.dev/talks) <-- [clmay/talks](https://github.com/clmay/talks)

@@ -1,0 +1,9 @@
+[submodule "about"]
+	path = about
+	url = https://github.com/clmay/clmay
+[submodule "garden"]
+	path = garden
+	url = https://github.com/clmay/garden
+[submodule "talks"]
+	path = talks
+	url = https://github.com/clmay/talks
