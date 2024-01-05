@@ -21,4 +21,4 @@ Here are some other places where I have a presence on the web:
 - [YouTube](https://www.youtube.com/@analogyschema)
 
 Please feel free to get in touch [here](https://github.com/clmay/clmay/discussions/categories/say-hello) or by sending
-me an [email](mailto:hello@clm.dev)! To report an typographical, factual, or other error, please [file an issue](https://github.com/clmay/clmay.github.io/issues). Thanks! 🙏
+me an [email](mailto:hello@clm.dev)! To report a typographical, factual, or other error, please [file an issue](https://github.com/clmay/clmay.github.io/issues). Thanks! 🙏
