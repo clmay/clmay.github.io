@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-I'm [Chase May](/about) (he/him<sup>[(?)](https://pronouns.org/what-and-why)</sup>).
+I'm [Chase May](/about) (he/him)<sup>[(?)](https://pronouns.org/what-and-why)</sup>.
 
 This is my
 personal website<sup>🌎</sup> and digital garden<sup>🌱</sup>.
