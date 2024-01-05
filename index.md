@@ -1,9 +1,9 @@
-## Welcome!
+## Welcome! 👋
 
 I'm [Chase May](/about) (he/him<sup>[(?)](https://pronouns.org/what-and-why)</sup>).
 
 This is my
-personal website<sup>🌎</sup> and digital garden<sup>🌱🌧️☀️</sup>.
+personal website<sup>🌎</sup> and digital garden<sup>🌱</sup>.
 
 I like to code, read, think, write, and [sit](https://www.sotozen.com/eng/practice/zazen/advice/fukanzanzeng.html).
 
