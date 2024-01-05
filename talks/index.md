@@ -1,8 +1,7 @@
 ## Talks
 
-- [Talks](#talks)
-  - [Alphabetical](#alphabetical)
-  - [Chronological](#chronological)
+- [Alphabetical](#alphabetical)
+- [Chronological](#chronological)
 
 <!--TODO: figure out a way to generate these lists programmaticaly-->
 
