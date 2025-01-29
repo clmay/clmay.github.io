@@ -1,4 +1,4 @@
-👋 Hi!
+Hi! 👋
 
 I'm Chase (he/him)<sup>[?](https://pronouns.org/what-and-why)</sup>.
 
