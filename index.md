@@ -4,10 +4,6 @@ I'm [Chase May](/about) (he/him)<sup>[?](https://pronouns.org/what-and-why)</sup
 
 This is my digital garden<sup>🌱</sup>.
 
-- [GitHub](https://github.com/clmay)
-- [Spotify](https://open.spotify.com/user/chaseloganmay)
-- [YouTube](https://www.youtube.com/@analogyschema)
-
 Here are some other places where I exist on the web:
 
 - <i class="fas fa-cloud"></i> BlueSky: <a href="https://bsky.app/profile/clm.dev">@clm.dev</a>
