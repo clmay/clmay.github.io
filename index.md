@@ -11,4 +11,4 @@ Here are some other places where I exist on the web:
 - <a href=" https://www.youtube.com/@clm541"><i class="fab fa-youtube"></i> YouTube</a>
 
 <!-- Load icons -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/brands.min.css">
