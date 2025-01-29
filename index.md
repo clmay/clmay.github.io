@@ -1,8 +1,6 @@
 ## Welcome! 👋
 
-I'm [Chase May](/about) (he/him)<sup>[?](https://pronouns.org/what-and-why)</sup>.
-
-This is my digital garden<sup>🌱</sup>.
+I'm Chase (he/him)<sup>[?](https://pronouns.org/what-and-why)</sup>.
 
 Here are some other places where I exist on the web:
 
