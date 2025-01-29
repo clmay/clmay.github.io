@@ -1,6 +1,4 @@
-## Welcome! 👋
-
-I'm Chase (he/him)<sup>[?](https://pronouns.org/what-and-why)</sup>.
+Hi! 👋 I'm Chase (he/him)<sup>[?](https://pronouns.org/what-and-why)</sup>.
 
 Here are some other places where I exist on the web:
 
