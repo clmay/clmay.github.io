@@ -16,10 +16,5 @@ Here are some other places where I exist on the web:
 - Spotify: <a href="https://open.spotify.com/user/chaseloganmay">Chase <i class="fab fa-spotify"></i></a>
 - YouTube: <a href=" https://www.youtube.com/@clm541">@clm541 <i class="fab fa-youtube"></i></a>
 
-
-Feel free to say hi!
-
-To report a typographical, factual, or other error, please [file an issue](https://github.com/clmay/clmay.github.io/issues). Thanks! 🙏
-
 <!-- Load icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
