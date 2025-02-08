@@ -6,8 +6,6 @@ This is my personal website and digital garden. 🌱
 
 Germination is slow here, but the soil is rich. Feel free to return another time.
 
-For now, you are welcome to explore my [sandbox](/sandbox/).
-
 Here are some other places where I exist on the web:
 
 - <a href="https://www.bsky.app/profile/clm.dev"><i class="fa-brands fa-bluesky"></i> BlueSky</a>
